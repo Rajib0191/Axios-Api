@@ -1,0 +1,53 @@
+.form__container {
+  position: relative;
+}
+.form__control {
+  margin: 5px 0;
+  text-align: center;
+}
+.form__input {
+  width: 90%;
+  padding: 9px;
+  border: none;
+  background: #e5e5e5;
+  border-radius: 5px;
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+  outline: none;
+}
+.select__field {
+  width: 93%;
+  padding: 8px;
+  border: none;
+  background: #e5e5e5;
+  border-radius: 5px;
+  font-family: "Rubik", sans-serif;
+  font-size: 14px;
+  outline: none;
+  color: #757575;
+  appearance: none;
+}
+.form__control__check {
+  margin: 5px 25px;
+}
+.submit__btn {
+  width: 93%;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  margin-top: 10px;
+  font-size: 16px;
+  text-transform: uppercase;
+  background: orange;
+  cursor: pointer;
+}
+.close__btn {
+  position: absolute;
+  top: -20px;
+  right: 20px;
+}
+.close__btn button {
+  background: transparent;
+  border: 1px solid #757575;
+  cursor: pointer;
+}

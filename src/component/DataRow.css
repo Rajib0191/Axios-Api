@@ -1,0 +1,12 @@
+.btn {
+  background: transparent;
+  cursor: pointer;
+  font-size: 12px;
+}
+.edit__btn {
+  border: 2px solid green;
+}
+.delete__btn {
+  margin-left: 5px;
+  border: 2px solid red;
+}
